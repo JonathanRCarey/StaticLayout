@@ -1,0 +1,43 @@
+h1{
+    font-family: Arial;
+    font-size: 45px;
+    position: relative;
+    text-align: left;
+    bottom: -60px;
+    right: -100px;
+
+    }
+
+    h4{
+
+        font-family: sans-serif;
+        color: rgb(41, 41, 41);
+        position: relative;
+        right: -40px;
+        }
+    
+    h5{
+    font-family: sans-serif;
+    text-align: right;
+    }
+
+p {
+    position: relative;
+    text-align: left;
+    bottom: -60px;
+    right: -100px;
+
+}
+
+p2 {
+    position: relative;
+    text-align: left;
+    font-size: 14px;
+    bottom: -160px;
+    right: -100px; 
+}
+
+
+
+
+
