@@ -8,17 +8,41 @@ h1{
 
     }
 
-    h4{
+    h2{
+        font-size: 30px;
+        text-align: right;
+        position: relative;
+        bottom: -400px;
+        left: -50px;
+    }
+    h3{
+        font-size: 30px;
+        text-align: right;
+        position: relative;
+        bottom: -400px;
+        left: -50px;
+    }
 
+    h4{
+   
         font-family: sans-serif;
         color: rgb(41, 41, 41);
         position: relative;
         right: -40px;
         }
+
     
-    h5{
+
+        
+    
+    button{
+    position: relative;
     font-family: sans-serif;
     text-align: right;
+    right: -1250px;
+    bottom: 43px;
+    background-color: transparent;
+    border-color: transparent;
     }
 
 p {
@@ -37,6 +61,29 @@ p2 {
     right: -100px; 
 }
 
+p3 {
+    font-family: Arial;
+    font-size: 15px;
+    position: relative;
+    text-align: right;
+    bottom: -350px;
+    right: -200px;
+}
+
+p4 {
+
+    font-family: arial;
+    position: relative;
+    text-align: right;
+    font-size: small; 
+    
+}
+
+body{
+    background-image: url(https://static.crozdesk.com/web_app_library/providers/logos/000/000/020/original/grammarly-1571179997-logo.png?1571179997);
+    width: 300;
+    height: 300;
+}
 
 
 
